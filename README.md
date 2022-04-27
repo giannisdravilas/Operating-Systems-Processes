@@ -1,5 +1,5 @@
 # Operating-Systems-Processes
-Cooperation between a parent process and several child processes in C using semaphores
+💻 Cooperation between a parent process and several child processes in C using a shared memory segment and semaphores
 
 ## General
 The parent process is initiated using three arguments given by the user, a filename, the number of child processes to be used and the number of transactions each child process is involved to. Afterwards, three semaphores, a shared memory segment and the given number of child processes are created.
